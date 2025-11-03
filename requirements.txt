@@ -1,0 +1,7 @@
+pytest>=7.0.0
+requests>=2.31.0
+PyYAML>=6.0
+allure-pytest>=2.13.5
+loguru>=0.7.0
+jsonpath>=0.82
+pytest-xdist>=3.3.1
